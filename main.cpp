@@ -29,6 +29,7 @@ string cipher_encrypt(string text, int shift) {
 string mono_decrypt(string text, string key) {
     unordered_map<char, char> decryptMap;
     string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
     for (int i = 0; i < 26; i++) decryptMap[key[i]] = alphabet[i];
     string result = "";
     for (char c : text) {

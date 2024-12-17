@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/moham/CLionProjects/CyberSecurity/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/moham/CLionProjects/CyberSecurity",
+	"dir-top-bld" : "C:/Users/moham/CLionProjects/CyberSecurity/cmake-build-debug",
+	"dir-top-src" : "C:/Users/moham/CLionProjects/CyberSecurity",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/moham/CLionProjects/CyberSecurity/cmake-build-debug/CMakeFiles/CyberSecurity.dir"
+}

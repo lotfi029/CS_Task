@@ -1,0 +1,3 @@
+C:/Users/moham/CLionProjects/CyberSecurity/cmake-build-debug/CMakeFiles/CyberSecurity.dir
+C:/Users/moham/CLionProjects/CyberSecurity/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/moham/CLionProjects/CyberSecurity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
